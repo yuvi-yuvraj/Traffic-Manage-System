@@ -1,0 +1,22 @@
+*.pt
+.venv/
+__pycache__/
+*.pyc
+.env
+*.log
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables
+.env
+
+# IDE files
+.vscode/
+.idea/
